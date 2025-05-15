@@ -755,5 +755,160 @@
                 "More_Info": "If you set it to \"2,\" your verification dialog will consistently appear at 2-minute intervals in the user app. Similarly, if set to \"60,\" it will display every 60 minutes.\n\n⚠️ Be cautious about setting too short intervals, like 2 or 3 minutes, as it may impact the user experience."
             }
         ]
+    },
+    {
+        "dlg_name": "Auto-Update PlayStore UI",
+        "dlg_about": "Can  help your user to Update your latest mod via in-app update Installer..\n\n\nWatch the tutorial for a more in-depth understanding. 🔥🔥\n\n\n𝗛𝗶𝘀𝘁𝗼𝗿𝘆 : \n\n 26-04-2025 \n🔨 Fixed causing parsing error due new api issue\n\n19-04-2025 \n 🔨 Fixed bug causing crash in newer devices \n🔨 Minor upgrade in UI\n🔨 Consider using apk optimization if app failed to install after injection \n\n07-04-2024 \n🔥 Initial release",
+        "isUpdateBasedDialog": true,
+        "isOnlyForVIP_Preview": true,
+        "download_link": "EE8gmEBavaWoBmPrYV4MQSeSiG5fmwxSzcIuMeO9vx5mABl/zc6WeBUM5RpjBjOSJM+Ue4N7opKAnOWEMf2GwN0nMXzBalY6yNsvTuSjadfakJkSnJRCY/sATZtU7ulo",
+        "category": "Update Activity",
+        "ର_କି": "Default",
+        "ଜେସନ୍_କି": "Default",
+        "PatcherLogic": "EE8gmEBavaXRpYdVtjIZb5BKjfQKZyHb8+gWXFNNngXyXUVq0NFE6KdZE+JmfxOA9Yzm8AiIxCB1G7tcy7VTQLbNLf2jj+D9rX+aS6n4SIunXBak4jTCqxa5cAdd/FY2",
+        "asset_json_file_name": null,
+        "instructions_after_patch": "Remember to change the \"logo\" file available in \"assets/total/\" .. For this Just make a PlayStore like logo .. (You can view the example 'logo' when you click 'logo' file in assets then click \"Image Viewer\") .. And after making your custom logo make sure to rename the file name into \"logo\" only .. Remember it \n\n\n*Direct patching is highly recommended ",
+        "isDirectJsonCreationAvailable": true,
+        "isDirectPatchingAvailable": true,
+        "dlg_preview_data": [
+            {
+                "Title": "Image Explanation 1",
+                "ImageLink": "https://i.ibb.co/8shw0zr/IMG-20240408-073536-917.jpg"
+            },
+            {
+                "Title": "Image Explanation 2",
+                "ImageLink": "https://i.ibb.co/8cYPn7G/IMG-20240408-073539-552.jpg"
+            },
+            {
+                "Title": "Ask question in TG",
+                "ImageLink": "https://t.me/Modder_Hub/"
+            },
+            {
+                "Title": "Telegram Tutorial",
+                "ImageLink": "https://t.me/Apk_Modding_Tutorial/64"
+            }
+        ],
+        "dlg_design_data_for_apply": [
+            {
+                "Dlg_Information": "Set new version code",
+                "User_Input": "",
+                "More_Info": "Please enter version code.. not version name remember it ..Any confusion ask in group",
+                "InputDigitOnly": "true",
+                "User_Input_Tag": "i/RsvH7vT2W3NXLWZbIFNA==",
+                "Is_Color_Input": false,
+                "isChoiceMode": false,
+                "singleLine": "true"
+            },
+            {
+                "Dlg_Information": "Is force Update ?",
+                "User_Input": "false",
+                "User_Input_Tag": "hAdGeiIbYCNFTL2mectRYmK1ROLgyxip",
+                "Is_Color_Input": false,
+                "isChoiceMode": true,
+                "radioBtns_data": [
+                    {
+                        "radioBtn_title": "true"
+                    },
+                    {
+                        "radioBtn_title": "false"
+                    }
+                ],
+                "More_Info": "If you set force update \"true\" then app will automatically exit if internet connection off",
+                "singleLine": "true"
+            },
+            {
+                "Dlg_Information": "Set title",
+                "Header": "Activity Header settings :",
+                "User_Input": "Update available",
+                "User_Input_Tag": "+Nz0v0ZNlBxb40pU2o8naA==",
+                "singleLine": "true",
+                "Is_Color_Input": false,
+                "isChoiceMode": false
+            },
+            {
+                "Dlg_Information": "Set message ",
+                "User_Input": "To use this app, download the latest version ",
+                "User_Input_Tag": "SPHtYjuNE3s=",
+                "singleLine": "true",
+                "Is_Color_Input": true,
+                "isChoiceMode": false
+            },
+            {
+                "Dlg_Information": "Set what's new text",
+                "Header": "Update Information",
+                "User_Input": "What's new",
+                "User_Input_Tag": "SZsT5eIa92yAX7IpMkMHYQ==",
+                "singleLine": "true",
+                "Is_Color_Input": false,
+                "isChoiceMode": false
+            },
+            {
+                "Dlg_Information": "Set update text with date",
+                "User_Input": "Updated on \"Your Date\"",
+                "User_Input_Tag": "6DmTjUpwRsPHgAAgd8BKeA==",
+                "Is_Color_Input": false,
+                "isChoiceMode": false,
+                "singleLine": "true"
+            },
+            {
+                "Dlg_Information": "Set new update details",
+                "User_Input": "",
+                "User_Input_Tag": "p/ajvjIUcLgjBl5+P59Aow==",
+                "Is_Color_Input": false,
+                "isChoiceMode": false
+            },
+            {
+                "Dlg_Information": "Set update button text",
+                "Header": "Button settings",
+                "User_Input": "Update",
+                "User_Input_Tag": "Pg6RBC9Q/VnxXcdSR8tfYA==",
+                "Is_Color_Input": false,
+                "isChoiceMode": false,
+                "singleLine": "true"
+            },
+            {
+                "Dlg_Information": "Set update link(Direct download link)",
+                "User_Input": "",
+                "User_Input_Tag": "ymazUjoKWDsNnNii0mBUsQ==",
+                "Is_Color_Input": false,
+                "isChoiceMode": false,
+                "singleLine": "true",
+                "pasteBoard": "true"
+            },
+            {
+                "Dlg_Information": "Set more button text",
+                "User_Input": "More info",
+                "User_Input_Tag": "lOFE9Txk59UaRY+AAUsyyQ==",
+                "Is_Color_Input": false,
+                "isChoiceMode": false,
+                "singleLine": "true"
+            },
+            {
+                "Dlg_Information": "Set more button link",
+                "User_Input": "",
+                "User_Input_Tag": "sSVi3V6HlMrAjHXVPqgTpg==",
+                "Is_Color_Input": false,
+                "isChoiceMode": false,
+                "singleLine": "true",
+                "pasteBoard": "true"
+            },
+            {
+                "Dlg_Information": "Set updating message ",
+                "Header": "Update Installer Activity",
+                "User_Input": "Updating please wait...",
+                "User_Input_Tag": "sS3DeoT4wXEtt5oIgQdr8Q==",
+                "Is_Color_Input": false,
+                "isChoiceMode": false,
+                "singleLine": "true"
+            },
+            {
+                "Dlg_Information": "Set installing message ",
+                "User_Input": "Installing...",
+                "User_Input_Tag": "185POs3G67Tggfk2r7WhdA==",
+                "Is_Color_Input": false,
+                "isChoiceMode": false,
+                "singleLine": "true"
+            }
+        ]
     }
 ]
