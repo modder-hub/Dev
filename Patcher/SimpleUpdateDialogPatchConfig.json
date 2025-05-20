@@ -1,0 +1,12 @@
+{
+  "ApkPatcherConfig": {
+    "Item_Name": "Simple Update Dialog",
+    "FileNameAfterPatch": "SimpleUpdateDialog"
+  },
+  "ManifestPatcherConfig": {
+    "Permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ]
+  }
+}
