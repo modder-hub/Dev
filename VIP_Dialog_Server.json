@@ -872,6 +872,7 @@
                 "Is_Color_Input": false,
                 "isChoiceMode": false,
                 "singleLine": "true",
+                "DexLoaderClassName": "com.dialog.functions.functionsUI.AdsVerifyGenerateLinkUI",
                 "pasteBoard": "true"
             },
             {
