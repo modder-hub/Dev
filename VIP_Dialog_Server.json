@@ -709,8 +709,7 @@
                 "SeekBarWithMaxValue" : "18",
                 "isChoiceMode": false,
                 "singleLine": "true",
-                "InputDigitOnly": "true",
-                "EditText_Limit": "1"
+                "InputDigitOnly": "true"
             },
             {
                 "Dlg_Information": "Set Activity title",
