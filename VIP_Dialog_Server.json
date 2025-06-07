@@ -706,6 +706,7 @@
                 "User_Input": "8",
                 "User_Input_Tag": "bnXIQSWGJpi89qPc8D3BKxz4A6kTeSdl",
                 "Is_Color_Input": false,
+                "SeekBarWithMaxValue" : "18",
                 "isChoiceMode": false,
                 "singleLine": "true",
                 "InputDigitOnly": "true",
